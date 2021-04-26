@@ -17,7 +17,7 @@ body {
 
 .standard_wrapper {
     padding: 80px 0;
-    width: 60%;
+    width: 50%;
     margin: 0 auto;
 }
 
@@ -88,4 +88,15 @@ body {
 
 .header_bottom a.selected {
     color: #3367d6;
+}
+
+
+/* Main */
+
+main p {
+    padding-top: 20px;
+}
+
+main h2 {
+    padding-top: 40px;
 }
